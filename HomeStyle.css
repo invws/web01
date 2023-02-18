@@ -1,0 +1,85 @@
+
+.headerpic{
+    position: fixed;
+    width: 101%;
+    height: 380px;
+    background-color: rgb(219, 219, 219);
+    top: -1%;
+    left: -1%;
+}
+
+.headerpic #pic01 a img{
+    position: fixed;
+    align-items: center;
+    width: auto;
+    height: 360px;
+    left: 0%;
+    top: 0%;
+}
+
+.headerpic #signin a{
+    position: relative;
+    float: right;
+    font-size: 30px;
+    padding-left: 5px;
+    padding-right: 6px;
+    padding-top: 10px;
+    display: block;
+    color: rgb(97, 97, 97);
+    text-decoration: none;
+    right: -760px;
+    
+}
+
+.headerpic #signin #sign{
+    border-left: 2px solid rgb(0,0,0);
+}
+
+.headerpic #signin a:hover{
+    background-color: white;
+}
+
+.headerpic #navibar{
+    position: relative;
+    float: right;
+}
+
+.headerpic #navibar ul .menu{
+    position: relative;
+    float: left;
+    top: 310px;
+    background-color: rgb(219, 219, 219);
+    right: -1px;
+}
+
+.headerpic #navibar ul li{
+    position: relative;
+    float: left;
+    list-style-type: none;	
+    overflow: hidden;
+    font-size: 35px;
+}
+
+.headerpic #navibar ul li a{
+    position: relative;
+	display: block;
+	color:rgb(97, 97, 97);   
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: ;
+}
+
+.headerpic #navibar ul li a:hover{
+    color: rgb(18, 86, 214);
+    background-color: rgb(255, 255, 255);
+}
+
+.gbc{
+    position: relative;
+    background-color: white;
+    height: 5000px;
+    top: 360px;
+    left: -1%;
+    width: 102%;
+}
